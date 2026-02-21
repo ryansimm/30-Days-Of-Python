@@ -283,7 +283,7 @@ Number data types in Python:
 
 1. Check the data type of all your variables using type() built-in function
 2. Using the _len()_ built-in function, find the length of your first name
-3. Compare the length of your first name and your last name
+3.  the length of your first name and your last name
 4. Declare 5 as num_one and 4 as num_two
 5. Add num_one and num_two and assign the value to a variable total
 6. Subtract num_two from num_one and assign the value to a variable diff
